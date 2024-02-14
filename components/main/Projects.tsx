@@ -15,9 +15,9 @@ const Projects = () => {
           
           src="/webexp.png"
           title="WebExp"
-          className="cursor-pointer hover:animate-slowspin"
+          
           description="It's a freenlancing portfolio website, created during 1st year of my college along with my teammates by using HTML, CSS and Javascript. "
-          href="https://github.com/HarshittttRaj" target="_blank" rel="noreferrer"
+          
         />
         <ProjectCard
           

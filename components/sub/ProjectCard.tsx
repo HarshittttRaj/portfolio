@@ -11,17 +11,16 @@ const ProjectCard = ({ src, title, description }: Props) => {
   return (
    
     <div className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]">
-       <a href="https://github.com/HarshittttRaj" className="cursor-pointer" target="_blank" rel="noreferrer">
               
       <Image
 
         src={src}
         
         alt={title}
-        width={10000}
+        width={1000}
         height={100}
         className="w-full object-contain cursor-pointer hover:animate-slowspin"
-      /> </a>
+      /> 
 
       <div className="relative p-4">
         <h1 className="text-2xl font-semibold text-white">{title}</h1>
