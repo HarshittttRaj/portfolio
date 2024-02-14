@@ -38,7 +38,7 @@ const HeroContent = () => {
               {" "}
               Harshit Raj{" "}
             </span>
-            and here's my portfolio. 
+            and here my portfolio. 
           </span>
         </motion.div>
 
